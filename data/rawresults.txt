@@ -1,0 +1,42 @@
+infy	112											
+Test	RMSE:	15.49							RSME	R^2 score	Mean Abs. Error	Median Abs error
+Test	r2Score:	0.985						INFY	15.49	0.985	11.029	8.166
+Test	ms	log	err:	0				RELIANCE	8.831	0.997	6.479	4.98
+Test	mean	abs	err:	11.029				BHEL	2.995	0.992	2.097	1.435
+Test	median	abs	err:	8.166				SBI	5.264	0.987	3.629	2.757
+Test	explained	variance	score:	0.985				TATAMOTORS	9.166	0.984	6.882	5.272
+								Average	8.3492	0.989	6.0232	4.522
+bhel												
+												
+Test	RMSE:	2.995										
+Test	r2Score:	0.992										
+Test	ms	log	err:	0.001								
+Test	mean	abs	err:	2.097					RIL			
+Test	median	abs	err:	1.435					t+1 RMSE: 8.809382			
+Test	explained	variance	score:	0.992					t+2 RMSE: 12.681970			
+									t+3 RMSE: 15.804626			
+sbi												
+Test	RMSE:	5.264							sbi			
+Test	r2Score:	0.987							t+1 RMSE: 5.262709			
+Test	ms	log	err:	0					t+2 RMSE: 7.602232			
+Test	mean	abs	err:	3.629					t+3 RMSE: 9.120620			
+Test	median	abs	err:	2.757								
+Test	explained	variance	score:	0.987					tata motors			
+									t+1 RMSE: 9.103220			
+TATA									t+2 RMSE: 12.995374			
+									t+3 RMSE: 15.634016			
+Test	RMSE:	9.166										
+Test	r2Score:	0.984										
+Test	ms	log	err:	0								
+Test	mean	abs	err:	6.882					infy			
+Test	median	abs	err:	5.272					t+1 RMSE: 15.428188			
+Test	explained	variance	score:	0.984					t+2 RMSE: 22.212596			
+									t+3 RMSE: 26.212155			
+Reliance												
+Test	RMSE:	8.831										
+Test	r2Score:	0.997										
+Test	ms	log	err:	0								
+Test	mean	abs	err:	6.479					bhel			
+Test	median	abs	err:	4.98					t+1 RMSE: 3.020587			
+Test	explained	variance	score:	0.997					t+2 RMSE: 4.463282			
+									t+3 RMSE: 5.575176			
